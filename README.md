@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Rounaknayee
-- 👀 I’m interested in Application Development especially the MVC based architectures and Blockchain.
-- 🌱 Constantly exploring new technologies
-- 💞️ I’m looking to collaborate on Blockchain application Development
+-  Hi,👋 I’m @Rounaknayee
+- 👀 I’m interested in Infrastructure Tehnology software Development and Cloud Industry 
+- 🌱 Previously I have worked as Infrstructure Techonolgy Analyst at Wolters Kluwer managing the European Division on AWS-Azure clouds
+-  Constantly exploring new technologies
+- 💞️
 - 📫 How to reach me :: rounaknayee007@gmail.com
 
 <!---
