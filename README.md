@@ -1,26 +1,26 @@
-### 👋 Hello, I'm Rounak Nayee!
+## 👋 Hello, I'm Rounak Nayee!
 
 🏫 I'm a **Graduate Student in Computer Science** at **Rutgers University**, specializing in Algorithms, Databases, and Distributed, Cloud and Parallel Computing Systems. I love to continuously explore and learn about new things be it new technologies or the latest trends.
 
 ---
 
-## ⚡ Technologies
+### ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Backend development using **Flask, Django, Node.js**.
-- Building Everything with **Terraform, Docker, Kubernetes, Ansible**
-- Designing Databses with **MySQL, MongDB**.
+- Building Everything with **Terraform, Docker, Kubernetes**
+- Designing Databases with **MySQL, MongDB**.
 - Robust full-stack system design implementation.
 - Creating scalable cloud architecture using **AWS & Azure Cloud**.
 - Solving Data structure and algorithm questions in **Python & C++**.
-- Working with Operating Systems **Windows, Mac, Linux**
-- Buzzing techs **Solidity on Ethereum(Learning)**
+- Working with all things Infrastructure **Windows, Linux, Active Directory, PowerShell, BigFix, OpsRamp, Solarwinds, ServiceNow**
+- Learning Buzzing technologies **Solidity on Ethereum**
 
 ---
 
 #### 🌟 Experiences:
-- **Cloud Software Engineer Intern** at **New Jersey Transit** 
-- **Infrastructure Technology Analyst** at **Wolters Kluwer**
+- **Cloud Software Engineer Intern** at **New Jersey Transit** since **06/2023**
+- **Infrastructure Technology Analyst** at **Wolters Kluwer** from **10/2020** to **07/2022**
 
 ---
 
