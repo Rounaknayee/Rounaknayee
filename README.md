@@ -1,19 +1,20 @@
 ### 👋 Hello, I'm Rounak Nayee!
 
-🏫 I'm a **Graduate Student in Computer Science** at **Rutgers University**, specializing in Algorithms, Databases, and Distributed, Cloud and Parallel Computing Systems.
+🏫 I'm a **Graduate Student in Computer Science** at **Rutgers University**, specializing in Algorithms, Databases, and Distributed, Cloud and Parallel Computing Systems. I love to continuously explore and learn about new things be it new technologies or the latest trends.
 
 ---
-#### 🛠 Technical Skills:
-- **Languages**: C, C++, Java, Python, JavaScript, HTML, CSS
-- **Frameworks/Technologies**: Django, Flask, GIT, VSCode, Azure, AWS, Windows, Linux, MySQL, React, Ansible, NoSQL (MongoDB), Docker containers, Kubernetes, Node.js, Terraform.
-- **Certifications**: Azure Cloud Architect (AZ-104), Azure Fundamentals (AZ-900), C++ on Udemy
----
 
-#### 🌐 Domain Expertise:
-- **Infrastructure Technology**
-- **DevOps Practices & Cloud Infrastructure** (AWS, Azure)
-- **Software Development**
-- **Automation** with tools like Terraform and Ansible
+## ⚡ Technologies
+Talk to me about:
+- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
+- Backend development using **Flask, Django, Node.js**.
+- Building Everything with **Terraform, Docker, Kubernetes, Ansible**
+- Designing Databses with **MySQL, MongDB**.
+- Robust full-stack system design implementation.
+- Creating scalable cloud architecture using **AWS & Azure Cloud**.
+- Solving Data structure and algorithm questions in **Python & C++**.
+- Working with Operating Systems **Windows, Mac, Linux**
+- Buzzing techs **Solidity on Ethereum(Learning)**
 
 ---
 
