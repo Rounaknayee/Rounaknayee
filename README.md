@@ -38,9 +38,8 @@ Talk to me about:
 
 📫 **Get in touch**:
 - 📧 Email: [rounaknayee007@gmail.com](mailto:rounaknayee007@gmail.com)
+- 🔗 [Portfolio](https://rounaknayee.github.io/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rounaknayee/)
-
-
 
 <!---
 Rounaknayee/Rounaknayee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
